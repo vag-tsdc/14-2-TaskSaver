@@ -15,5 +15,14 @@
     "mysql": "^2.15.0",
     "package.json": "^2.0.1"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vag-tsdc/14-2-TaskSaver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vag-tsdc/14-2-TaskSaver/issues"
+  },
+  "homepage": "https://github.com/vag-tsdc/14-2-TaskSaver#readme",
   "description": ""
 }
